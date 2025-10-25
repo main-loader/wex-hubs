@@ -169,9 +169,9 @@ TweenService:Create(blur, TweenInfo.new(1.5, Enum.EasingStyle.Quad), {Size = 20}
 -- Messages to loop through
 local messages = {
 	"Loading the script..",
-	"Bypassing Duper script..",
-	"Setting up duper…",
-	"Finding items to dupe…",
+	"Bypassing script..",
+	"Setting up Pvsb script…",
+	"Toggling Your Script…",
 	"Decrypting modules..",
 	"Finalizing setup..."
 }
